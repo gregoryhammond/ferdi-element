@@ -18,4 +18,4 @@ This is a [Ferdi](https://github.com/getferdi/ferdi) / [Franz](https://github.co
 
 Huge thanks to [Sylvain Cecchetto for the original recipe / plugin for this](https://github.com/sy6sy2/recipe-riot), [Simon Lüke](https://github.com/semaphor/recipe-element) for the fork that I found on Google.
 
-This has been customized to fit [Ferdi](https://getferdi.com/) and [midov.pl Element server](https://element.midov.pl), but you can modify it to fit your own needs.
+This has been customized to fit [Ferdi](https://getferdi.com/) and [midov.pl Element server](https://element.midov.pl), but you can modify it to fit your own needs (in package.json).
