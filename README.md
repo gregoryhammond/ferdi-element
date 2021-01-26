@@ -1,5 +1,5 @@
 # Element for Ferdi / Franz
-This is a Ferdi / Franz recipe/plugin for Element, which was formerly known as Riot and Vector and is a web client for [matrix].
+This is a [Ferdi](https://github.com/getferdi/ferdi) / [Franz](https://github.com/meetfranz/franz) recipe/plugin for [midov.pl Element server](https://element.midov.pl), which is based on [Element](https://element.io/) and [was formerly known as Riot.im and Vector](https://itsfoss.com/riot-to-element/) and is a web client for [matrix](https://matrix.org/).
 
 ## Installation
 1. Open the Franz Plugins (`dev`elopment) folder on your machine, if the directory does not exist, create it:
@@ -9,10 +9,10 @@ This is a Ferdi / Franz recipe/plugin for Element, which was formerly known as R
     * `mkdir ~/.config/Ferdi/recipes/dev/
   * Windows: `%appdata%/Ferdi/recipes/dev/`
     
-2. [Download](https://github.com/gregoryhammond/ferdi-riot/blob/master/ferdi-riot.zip) or clone this repo (you don't need the entire repo along with the zip file included) into the `dev` directory – as sub-directory `ferdi-riot` (e.g.).
+2. [Download](https://github.com/gregoryhammond/ferdi-riot/blob/master/ferdi-riot.zip) or clone this repo (you don't need the entire repo along with the zip file included, choose one or the other) into the `dev` directory – as sub-directory `ferdi-element` (e.g.).
 3. Reload Ferdi.
-4. Add New Service (Ctrl + N)
-5. Click on Custom Services
+4. Add New Service.
+5. Click on Custom Services.
 6. Click on Element (under Community 3rd Party Recipes).
 7. Go to the Element service and login.
 
