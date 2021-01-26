@@ -6,9 +6,9 @@
   "main": "index.js",
   "author": "Simon Lüke, based on recipe-riot by Sylvain Cecchetto <cecchetto.sylvain@me.com> as delivered by Franz.",
   "license": "MIT",
-  "repository": "https://github.com/semaphor/recipe-element",
+  "repository": "https://github.com/gregoryhammond/ferdi-riot",
   "config": {
-    "serviceURL": "https://app.element.io",
+    "serviceURL": "https://element.midov.pl",
     "hasTeamID": false,
     "urlInputSuffix": false,
     "hasNotificationSound": true,
