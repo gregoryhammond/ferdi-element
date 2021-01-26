@@ -9,7 +9,7 @@ This is a Ferdi / Franz recipe/plugin for Element, which was formerly known as R
     * `mkdir ~/.config/Ferdi/recipes/dev/
   * Windows: `%appdata%/Ferdi/recipes/dev/`
     
-2. Download or clone this repo into the `dev` directory – as sub-directory `ferdi-riot` (e.g.).
+2. [Download](https://github.com/gregoryhammond/ferdi-riot/blob/master/ferdi-riot.zip) or clone this repo (you don't need the entire repo along with the zip file included) into the `dev` directory – as sub-directory `ferdi-riot` (e.g.).
 3. Reload Ferdi.
 4. Add New Service (Ctrl + N)
 5. Click on Custom Services
