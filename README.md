@@ -8,10 +8,13 @@ This is a Ferdi / Franz recipe/plugin for Element, which was formerly known as R
   * Linux: `~/.config/Ferdi/recipes/dev/`
     * `mkdir ~/.config/Ferdi/recipes/dev/
   * Windows: `%appdata%/Ferdi/recipes/dev/`
-    * ...
+    
 2. Download or clone this repo into the `dev` directory – as sub-directory `ferdi-riot` (e.g.).
 3. Reload Ferdi.
-4. Open `Settings` tab and enable Riot in the `development` tab of `Available services`.
+4. Add New Service (Ctrl + N)
+5. Click on Custom Services
+6. Click on Element (under Community 3rd Party Recipes).
+7. Go to the Element service and login.
 
 Huge thanks to [Sylvain Cecchetto for the original recipe / plugin for this](https://github.com/sy6sy2/recipe-riot), [Simon Lüke](https://github.com/semaphor/recipe-element) for the fork that I found on Google.
 
